@@ -52,7 +52,7 @@ def bulk_update():
             
 def stream_data():
     try:
-        engine = create_engine('mysql+pymysql://mdr_usr_db_admin:6@BSRVDr&Q8xFKnfU4Cm@localhost:3306')
+        engine = create_engine('mysql+pymysql://@localhost:3306')
         if (engine):
             print(type(engine))
     except Exception as e:
