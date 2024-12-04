@@ -1,4 +1,4 @@
-PowerBI files and data are in the public_assets folder. 
+PowerBI files are in the public_assets folder. 
 
 Reach out to me if you have issues re-creating the visual:
 john@macrodatarefinement.io
